@@ -4,7 +4,7 @@
 - Past projects available at [https://github.com/keira-n?tab=repositories](https://github.com/keira-n?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> ¯\_(ツ)_/¯
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
