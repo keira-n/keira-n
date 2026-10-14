@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I don't really know what I am doing</h1>
+<h1 align="center">Hallo</h1>
 <h3 align="center">(21, Student)</h3>
 
 - Past projects available at [https://github.com/keira-n?tab=repositories](https://github.com/keira-n?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> ¯\_(ツ)_/¯
+<p align="left"> [LinkedIn](https://www.linkedin.com/in/gianghi1502)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
